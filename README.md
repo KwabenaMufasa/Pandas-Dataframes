@@ -18,3 +18,12 @@ Working with pandas Dataframes
 
 ![Image](pandas2.png)
 
+
+## Aggreagating and Adding new columns to dataframe
+
+7. Aggregate specific cells in the table using their indices
+8.  Print out the result of the above aggregation
+9. Create new columns by calculating new whole sale price and new net revenue per product.
+10. Call the dataframe to visualise
+
+![Image](pandas3.png)
