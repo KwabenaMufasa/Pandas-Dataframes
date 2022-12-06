@@ -27,3 +27,4 @@ Working with pandas Dataframes
 10. Call the dataframe to visualise
 
 ![Image](pandas3.png)
+
