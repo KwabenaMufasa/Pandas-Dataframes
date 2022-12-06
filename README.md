@@ -7,7 +7,7 @@ Working with pandas Dataframes
 2. Added dictionary to the program
 3. Initialize the dictionary in a DataFrame
 
-![image](pandas1.png)
+![image](Screenshot_folder/pandas1.png)
 
 
 ## Analyzing and Calculations in pandas
@@ -16,7 +16,7 @@ Working with pandas Dataframes
 5. Calculate total revenue
 6. Indicate specific rows using a condition
 
-![Image](pandas2.png)
+![image](Screenshot_folder/pandas2.png)
 
 
 ## Aggreagating and Adding new columns to dataframe
@@ -26,5 +26,5 @@ Working with pandas Dataframes
 9. Create new columns by calculating new whole sale price and new net revenue per product.
 10. Call the dataframe to visualise
 
-![Image](pandas3.png)
+![image](Screenshot_folder/pandas3.png)
 
